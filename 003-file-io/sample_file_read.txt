@@ -1,0 +1,2 @@
+This is sample file for File I/O.
+This is next line.
